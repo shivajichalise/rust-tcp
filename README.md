@@ -20,3 +20,5 @@ telnet 0.0.0.0 6969
 ```
 
 4. Start sending messages from the terminals from where you ran the `telnet` command.
+
+![](https://raw.githubusercontent.com/shivajichalise/rust-tcp/main/Rust%20TCP%20demo.gif?token=GHSAT0AAAAAACSZGXJNVSCVW5ZY7UM2N7OYZT5RSWA)
